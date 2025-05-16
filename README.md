@@ -54,3 +54,6 @@ Files in Repository:
 - F432447_img (Arduino Hardware Connection image)
 - threeminstemperature_F432447.csv (CSV file)
 - project-notes.md
+- Task_4.ino
+- Task 3.1-3.4.ino
+- Task 3.5.ino
